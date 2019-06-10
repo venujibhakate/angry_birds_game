@@ -8,6 +8,6 @@ class Box{
 
     show(){
         fill(100,10,5);
-        rect(this.x,this.y,this.width,this.hight);
+        rect(this.x,this.y,this.width,this.height);
     }
 }
